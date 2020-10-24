@@ -1,0 +1,22 @@
+body { 
+    text-align: center;
+    background-color: grey;
+}
+.titulo { 
+     color: blue;
+     font-size: 30px;
+     background-color: white;     
+     font-family: cursive;
+    
+}
+.párrafo{ 
+    color: #000000;
+    text-align: left;
+    background-color: white;
+    font-size: 30px;
+    font-family: Baskerville Old Face;
+    width: 1200px;
+    height: auto;
+   margin: auto;
+}
+
